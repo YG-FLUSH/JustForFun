@@ -6,3 +6,12 @@ learning and playing
 
 * need a password dictionary like  [this repository](https://github.com/rootphantomer/Blasting_dictionary.git)
 
+#### todatetime.py
+
+* install 
+```
+chmod a+x todatetime.py
+cp todatetime.py /usr/local/bin/
+```
+
+
