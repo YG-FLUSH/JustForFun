@@ -15,5 +15,9 @@ cp todatetime.py /usr/local/bin/
 ```
 
 
+#### personal_tax.py
+* 预扣个税计算
+    * https://money.gucheng.com/201812/3616452.shtml
+
 
 
